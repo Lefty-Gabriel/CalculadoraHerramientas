@@ -7,3 +7,6 @@ npm install
 
 # 3. Ejecutar el proyecto
 node index.js
+
+# 4. Ejecutar el puerto 3000
+http://localhost:3000
